@@ -9,7 +9,13 @@ We analyze the US climate data from NCDC with multiple statistical and machine l
 
 ## Data
 
-The data used for the analysis is provided in the [Data](https://github.com/vnnsrk/Weather-Analysis/Data/) folder. It was extracted from the NCDC website. It consists of climate statistics such as Mean temperature of the day, max and min temperatures, humidity etc of the weather stations in the given area, along with the latitude, longitude and timestamp of the recording. The full description of the dataset is available in the schema of the data.
+The data used for the analysis is hosted at this [link](https://drive.google.com/open?id=0B_Cz1ZeaITeDYUNXUk5udE5NYk0). The data should be downloaded and stored in the [Data](https://github.com/vnnsrk/Weather-Analysis/Data/) folder. Then do,
+
+```
+$unzip -f Data.zip
+```
+
+It was extracted from the NCDC website. It consists of climate statistics such as Mean temperature of the day, max and min temperatures, humidity etc of the weather stations in the given area, along with the latitude, longitude and timestamp of the recording. The full description of the dataset is available in the schema of the data.
 
 ![Image Not Found](/Florida/myfigs/location_map.jpg?raw=true "Distribution of data")
 
