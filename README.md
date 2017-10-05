@@ -17,6 +17,7 @@ $unzip -f Data.zip
 
 It was extracted from the NCDC website. It consists of climate statistics such as Mean temperature of the day, max and min temperatures, humidity etc of the weather stations in the given area, along with the latitude, longitude and timestamp of the recording. The full description of the dataset is available in the schema of the data.
 
+## Example distribution of data
 ![Image Not Found](/Images/location_map.JPG?raw=true "Distribution of data")
 
 ## Cities of interest
@@ -39,4 +40,5 @@ The dataset was analyzed in 3 main, distinct and climatically diverse areas.
 8. We also perform temporal and spatial analysis of temperature, precipitation, humidity and snow-fall
 9. We finally perform generalized linear regression analysis with the contributing factors against temperature and identify that the TOBS value has steadily increased over the past 100 years, indicating a increase in average temperature.
 
+## Can we infer Global warming? Sneak-peek!
 ![Image Not Found](/Images/extra1.png?raw=true "Proof of global warming")
