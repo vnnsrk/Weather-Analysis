@@ -9,7 +9,7 @@ We analyze the US climate data from NCDC with multiple statistical and machine l
 
 ## Data
 
-The data used for the analysis is hosted at this [link](https://drive.google.com/open?id=0B_Cz1ZeaITeDYUNXUk5udE5NYk0). The data should be downloaded and stored in the [Data](https://github.com/vnnsrk/Weather-Analysis/Data/) folder. Then do,
+The data used for the analysis is hosted at this [link](https://drive.google.com/open?id=0B_Cz1ZeaITeDYUNXUk5udE5NYk0). The data should be downloaded and stored in the [Data](https://github.com/vnnsrk/Weather-Analysis/Data/) folder. To unzip and store data use,
 
 ```
 $unzip -f Data.zip
